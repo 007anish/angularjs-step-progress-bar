@@ -1,4 +1,4 @@
-# angularjs-step-progress-bar using angularjs, css, hmtl.
+# angularjs-step-progress-bar using angularjs, css, html.
 
 A simple way to create a step progress bar using angularjs, css and html. 
 
