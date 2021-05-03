@@ -2,4 +2,6 @@
 
 A simple way to create a step progress bar using angularjs, css and html. 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angularjs-step-progress-bar)
+You can also checkout the code on StackBlitz:
+
+[StackBlitz](https://stackblitz.com/edit/angularjs-step-progress-bar)
